@@ -1,3 +1,4 @@
+# DATE : 21.10.2024
 # Ex: 10 Option Menu
 
 ## AIM:
@@ -24,9 +25,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 
 Developed by: MADHUMITHA M
-
 Registration Number : 212222220020
-
 
 ### activity_main.xml
 ```
@@ -95,7 +94,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
 ### options_menu.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -125,8 +123,6 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/3b3044bc-c34d-4e84-af46-b6c5807b1ada)
-
-
 
 ## RESULT:
 The application successfully displays an options menu with various items, and upon selecting any item, a toast message shows the selected item.
